@@ -27,11 +27,7 @@ main :: proc() {
 
 
 }
-meow :: enum {
-  cat,
-  mouse,
 
-}
 initGame :: proc() {
   width: i32 = 800
   height: i32 = 600
