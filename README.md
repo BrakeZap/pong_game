@@ -14,4 +14,4 @@ Head over to the releases tab to download and play the game!
 ## How to build:
 If you want to build this project yourself, you'll need the latest version of the <ins>Odin</ins>. You can find install instructions here: [Install](https://odin-lang.org/docs/install/).
 
-Once Odin is installed, clone the repo using `git clone`. Once cloned, use `odin run ./src` to run the program.
+Once Odin is installed, clone the repo using `git clone`. Once cloned, use `odin run .` to run the program or `odin build .` to build the executable. 
