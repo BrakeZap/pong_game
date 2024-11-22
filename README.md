@@ -9,6 +9,7 @@ Head over to the releases tab to download and play the game!
 ### Controls:
 - W and S to move the left paddle up and down.
 - Up and Down arrows to move the right paddle up and down.
+- Press Space to start the game!
 
 
 ## How to build:
